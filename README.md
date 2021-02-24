@@ -1,5 +1,5 @@
-#Bismillah
-#Assalamu-Alaikum 
+#SBA3E
+#FSOCIETY
 
 [+] Termux-Lazyscript :-
  
@@ -10,10 +10,9 @@
 
 [+] Author :-
 
-   Name : Mujeeb
-   Youtube : www.youtube.com/TechnicalMujeeb
-   Github : https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
-   whatsapp : Termux cyber   
+   Name : SBA3E
+   FACEBOOK : GROUP : FSOCIETY 
+   whatsapp : FSOCIETY 
 
 [+] Installation :-
   
